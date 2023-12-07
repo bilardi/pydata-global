@@ -1,3 +1,6 @@
+awscli
+aiobotocore
+boto3
 dask
 bokeh
 scikit-learn
