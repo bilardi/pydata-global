@@ -5,6 +5,7 @@
 * python packages and awscli
 
 ```sh
+cd 2023
 pip install -r requirements.txt
 ```
 
